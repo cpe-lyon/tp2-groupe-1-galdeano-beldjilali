@@ -4,6 +4,7 @@
  printenv PATH 
  **2. Quelle variable d’environnement permet à la commande cd tapée sans argument de vous ramener dans votre répertoire personnel ?** 
  C'est la variable HOME 
+ 
  **3. Explicitez le rôle des variables LANG, PWD, OLDPWD, SHELL et _.** 
  
 LANG : Langue et codage de caractère utilisé par le système 
