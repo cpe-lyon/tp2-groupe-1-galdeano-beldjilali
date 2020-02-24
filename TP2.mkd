@@ -13,6 +13,7 @@ OLDPWD : Donne l'emplacement précédent
 SHELL : L'emplacement de l’interpréteur de commandes _ affiche le dernier argument de la commande précédente 
 
 **4. Créez une variable locale MY_VAR (le contenu n’a pas d’importance). Vérifiez que la variable existe.** 
+
 export MY_VAR = toto printenv MY_VAR 
 
 **5. Tapez ensuite la commande bash. Que fait-elle ? La variable MY_VAR existe-t-elle ? Expliquez. A la fin de cette question, tapez la commande exit pour revenir dans votre session initiale.**
